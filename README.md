@@ -1,0 +1,2 @@
+# linuxKernelThings
+about linux kernel
